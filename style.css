@@ -3,7 +3,7 @@
 }
 
 body {
-  background: #2f3542 url('img/bg.jpg') no-repeat left center/cover;
+  background: #2f3542 url('bg.jpg') no-repeat left center/cover;
   min-height: 100vh;
   color: #fff;
   display: flex;
